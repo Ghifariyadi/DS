@@ -6,5 +6,5 @@ Contains data science and data visualization portfolio
 * Dataset was taken from kaggle, you can check in this [link](https://www.kaggle.com/sjleshrac/airlines-customer-satisfaction)
 * Algoritma: Decision tree, Random forest, XGBoost, Logistic Regression, etc.
 * For the model explanation and business recommendation, you can check this [link](https://github.com/Ghifariyadi/DS/blob/main/Ghifariyadi%20-%20Model%20presentation.pdf)
-* For the source code, you can check this link
+* For the source code, you can check this [link] (https://github.com/Ghifariyadi/DS/blob/main/Ghifariyadi%20-%20Airlines%20customer%20satisfaction%20prediction.ipynb) 
 * Note: this project created with my three classmates when I joined Data Science bootcamp by Rakamin Academy. 
